@@ -1,0 +1,12 @@
+@font-face {
+    font-family: ubuntuKurdish;
+    src: url(Ubuntu-Kurdish-Kurdfont.ttf);
+}
+
+.font-rtl {
+    font-family: ubuntuKurdish;
+}
+
+.bg-official {
+    background-color: #c1a04d;
+}
